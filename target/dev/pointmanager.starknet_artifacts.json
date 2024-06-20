@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"3fjttv38i74ue","package_name":"pointmanager","contract_name":"Point","module_path":"pointmanager::pool_point::pool_point::Point","artifacts":{"sierra":"pointmanager_Point.contract_class.json","casm":"pointmanager_Point.compiled_contract_class.json"}}]}
